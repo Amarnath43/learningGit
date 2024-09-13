@@ -1,0 +1,6 @@
+Name: Amarnath Goshika
+College: TKR College of Engineering and Technology
+Technical Skills: HTML, CSS, JavaScript, Java, MySQL
+Soft skills: Problem solving, Time management
+Experience: 1.5 years of experience in digital marketing
+Project: Dynamic traffic control using image processing
